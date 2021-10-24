@@ -1,8 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { GlobalStyle } from './styles';
 
 const Site = () => {
-  return <>Template Site</>
+  return (
+    <>
+      Static Site Template
+      <GlobalStyle />
+    </>
+  );
 }
 
 
