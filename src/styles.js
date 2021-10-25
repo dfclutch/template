@@ -11,7 +11,6 @@ export const GlobalStyle = createGlobalStyle`
   body {
     color: white;
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 18px;
     background-color: MediumSeaGreen;
   }
 `;
